@@ -13,8 +13,9 @@
             </li>
           	<li><a href="https://github.com/kinkenyuen/Operating-System-Note/blob/main/进程与线程.md">进程和线程</a> 
             </li>
+            <li><a href="https://github.com/kinkenyuen/Operating-System-Note/blob/main/调度.md">调度</a> 
+            </li>
         </ul>
     </td>
     </tr>
 </table>
-
