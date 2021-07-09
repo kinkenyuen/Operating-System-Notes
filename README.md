@@ -18,4 +18,13 @@
         </ul>
     </td>
     </tr>
+    <tr>
+    <td><b>内存管理</b></td>
+    <td>
+        <ul>
+            <li><a href="https://github.com/kinkenyuen/Operating-System-Note/tree/main/内存管理">地址空间、交换技术、空闲内存管理</a> 
+            </li>
+        </ul>
+    </td>
+    </tr>
 </table>
