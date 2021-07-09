@@ -24,6 +24,8 @@
         <ul>
             <li><a href="https://github.com/kinkenyuen/Operating-System-Note/tree/main/内存管理">地址空间、交换技术、空闲内存管理</a> 
             </li>
+            <li><a href="https://github.com/kinkenyuen/Operating-System-Note/blob/main/内存管理/虚拟内存.md">虚拟内存</a> 
+            </li>
         </ul>
     </td>
     </tr>
