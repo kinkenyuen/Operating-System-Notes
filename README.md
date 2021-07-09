@@ -4,7 +4,7 @@
         <td>目录</td>
     </tr>
     <tr>
-    <td><b>操作系统</b></td>
+    <td><b>进程和线程</b></td>
     <td>
         <ul>
             <li><a href="https://github.com/kinkenyuen/Operating-System-Note/blob/main/操作系统概念.md">操作系统概念</a> 
