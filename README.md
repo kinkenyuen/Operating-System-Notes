@@ -26,6 +26,8 @@
             </li>
             <li><a href="https://github.com/kinkenyuen/Operating-System-Note/blob/main/内存管理/虚拟内存.md">虚拟内存</a> 
             </li>
+            <li><a href="https://github.com/kinkenyuen/Operating-System-Note/blob/main/内存管理/页面置换算法.md">页面置换算法介绍</a> 
+            </li>
         </ul>
     </td>
     </tr>
