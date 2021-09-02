@@ -15,6 +15,8 @@
             </li>
             <li><a href="https://github.com/kinkenyuen/Operating-System-Note/blob/main/进程和线程/调度.md">调度</a> 
             </li>
+            <li><a href="https://zh.wikipedia.org/wiki/行程間通訊">进程间通信</a> 
+            </li>
         </ul>
     </td>
     </tr>
